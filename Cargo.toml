@@ -1,6 +1,7 @@
 [package]
-name = "blue-rs"
+name = "moel-rs"
 author = "Mulyawan"
+version = "1.0"
 
 [dependencies]
 clap = { version = "4.5.4", feature = ["derive"]}
