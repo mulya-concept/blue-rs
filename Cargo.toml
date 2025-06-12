@@ -1,0 +1,6 @@
+[package]
+name = "blue-rs"
+author = "Mulyawan"
+
+[dependencies]
+clap = { version = "4.5.4", feature = ["derive"]}
